@@ -5,7 +5,7 @@
   "main": "index.js",
   "module": "dist/index.js",
   "peerDependencies": {
-    "react": "^16.8.6"
+    "react": "^18.2.0"
   },
   "files": [
     "dist/*",
@@ -32,6 +32,7 @@
     "react": "^18.2.0"
   },
   "dependencies": {
+    "smoke-effect-react": "github:celly/smoke-effect-react",
     "three": "^0.149.0"
   }
 }
